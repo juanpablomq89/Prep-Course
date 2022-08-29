@@ -1,0 +1,90 @@
+
+h1 {
+    color: darkblue;
+    text-align: center;
+}
+
+img {
+   width: 400px; 
+}
+
+#thirdDiv {
+    height: 600px;
+    width: 500px;
+    background-color: lightskyblue; 
+    padding: 50px;
+    border: 20px solid blue;
+   
+}
+
+#spanID {
+    font-size: 18px;
+    margin: 50px;
+    display: block;
+    
+}
+
+
+body {
+    background-image: url(https://img.freepik.com/vector-gratis/fondo-blanco-gris-brillante-lineas-onduladas_1017-25101.jpg?w=900&t=st=1661649494~exp=1661650094~hmac=f59d0ba3b009048208e63774c276f1fe7f14cfc0c1cf9d0f4532ee33ae39debb);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    background-color: lightsteelblue;
+ 
+}
+
+.divClass {
+    text-align: center;
+
+}
+
+.container {
+    height: 700px;
+    width: 500px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+}
+
+.container1 {
+    display: flex;
+    -webkit-justify-content:center;
+    justify-content: center;
+    -webkit-align-items: center;
+    align-items: center;
+}
+
+/* Styles adicionales para cv.html: */
+
+
+
+.divSecciones {
+    margin : 5px;
+}
+
+.divTitulo {
+    text-align: center;
+}
+
+h2 {
+  color: darkblue;
+}
+
+h3 {
+ 
+    color: black;
+}
+p {
+ justify-content: center;
+}
+
+.containercv {
+
+    margin: 5px;
+    border: 10px solid lightsteelblue;
+    padding: 5px;
+    
+}
